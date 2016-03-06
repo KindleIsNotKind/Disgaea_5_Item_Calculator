@@ -1,2 +1,4 @@
 # Disgaea_5_Item_calculator
 魔界战记五道具能力分析工具
+
+EXE与ItemStat.txt放到同一目录双击执行即可,之后功能对一般用户没用
