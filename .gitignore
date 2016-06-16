@@ -1,9 +1,6 @@
 # only code and exe
 
 /**
-!/Debug
-/Debug/*
-!Debug/*.exe
 !*.h
 !*.c
 !*.cpp
