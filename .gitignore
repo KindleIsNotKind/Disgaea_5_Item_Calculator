@@ -11,4 +11,5 @@
 !.gitignore
 !README.md
 !*.ini
+!*.exe
 ProjectEuler_543.c
